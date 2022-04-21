@@ -14,3 +14,6 @@
 	path = hr_expense_invoice
 	url = https://github.com/rocketgithub/hr_expense_invoice.git
 	branch = 13.0
+[submodule "kaizen"]
+	path = kaizen
+	url = git@github.com:rocketgithub/kaizen.git
